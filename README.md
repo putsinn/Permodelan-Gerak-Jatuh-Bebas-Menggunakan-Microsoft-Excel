@@ -1,1 +1,3 @@
 # Permodelan-Gerak-Jatuh-Bebas-Menggunakan-Microsoft-Excel
+Apa itu gerak jatuh bebas? Gerak jatuh bebas adalah gerak jatuh benda yang tidak memiliki kecepatan awal (V0 = 0). Jika selama benda itu jatuh hambatan udara diabaikan, maka percepatannya konstan (tetap) dan besarnya sama dengan percepatan gravitasi bumi. Selain itu, waktu yang dibutuhkan benda saat jatuh tidak bergantung pada massanya, tapi bergantung pada ketinggiannya. Microsoft excel dapat dimanfaatkan untuk mempermudah kita dalam mendeskipsikan fenomena gerak jatuh bebas, terlebih lagi dapat digunakan sebagai alat edukasi yang asik dan menyenangkan. Hal tersebut yang melatarbelakangi dibuat nya video pembelajaran ini:
+https://youtu.be/EXRCHPdFXAo
